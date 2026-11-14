@@ -1,0 +1,17 @@
+AI USE DECLARATION
+
+AI tool used: ChatGpt (OpenAI)
+
+Purpose and use of the AI tool:
+
+- To explain concepts throughout the assignment, such as molecular graph representations, atom and bond feature encoding, the difference between stratified random and Bemis–Murcko scaffold splitting, and how GNN message passing works.
+- To help investigate the standard approach for handling acyclic molecules during Bemis–Murcko scaffold splitting, particularly how molecules with empty scaffolds should be grouped.
+- To check whether my understanding and approaches were correct
+- For coding and debugging support 
+- To polish my writing and also check that my interpretations were supported by the results without overclaiming.
+- To help organize and convert the final report into LaTeX.
+
+Parts of the submission affected
+
+- Code repository
+- Assignment report
